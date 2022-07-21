@@ -19,7 +19,7 @@ The data from Sacramento Craigslist is available at [Sacramento Craigslist]( htt
 
 
 
-## Algorithms
+## Algorithms:
   
 	
     ### Ridge
