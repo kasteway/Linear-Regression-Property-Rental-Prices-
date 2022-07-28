@@ -3,7 +3,7 @@
 
 
 
-## Description: 
+## Description
 
 Over the past year, the rental price has increased in the region by 16%. Therefore, building this model will give us a better picture of the inventory available but with the focus of building a rental price predictive model. The data will be scraped from Craigslist and the necessary exploratory data analysis will be performed before running model selection. Additional work such as regularization and feature selection will be performed to optimize the model. 
 
