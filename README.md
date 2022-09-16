@@ -13,7 +13,7 @@ The goal was to build a predictive linear regression model that can predict the 
 ## Data: 
 
 Data is scraped from Sacramento Craigslist. It has over 2,700 listings over the past 60 days. The features included are: SQFT, BedRooms, BathRooms, Laundry, Parking, Smoking, Location, Pets
-	Tools: Python, Requests, BeautifulSoup
+	Tools: Python, Requests, BeautifulSoup.
 
 The data from Sacramento Craigslist is available at [Sacramento Craigslist]( https://sacramento.craigslist.org/)
 
