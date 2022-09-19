@@ -23,7 +23,7 @@ The data from Sacramento Craigslist is available at [Sacramento Craigslist]( htt
   
 	
     ### Ridge.
-    ### Lasso
+    ### Lasso.
     ### Elastic Net
     ### Polynomials
 
