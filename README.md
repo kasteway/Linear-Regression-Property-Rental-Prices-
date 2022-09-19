@@ -22,7 +22,7 @@ The data from Sacramento Craigslist is available at [Sacramento Craigslist]( htt
 ## Algorithms:
   
 	
-    ### Ridge
+    ### Ridge.
     ### Lasso
     ### Elastic Net
     ### Polynomials
