@@ -28,5 +28,5 @@ The data from Sacramento Craigslist is available at [Sacramento Craigslist]( htt
     ### Polynomials
 
   ## Tools:
-    Sklearn, statsmodels,
+    Sklearn, statsmodels,,,
 
